@@ -24,7 +24,7 @@ My reasoning has been influecned by [this excellent article on document clusteri
 
 ## The current plan
 
-The reasoning divides into three main parts, each resembled in separate .ipynb sketchbook files. These are:
+The reasoning divides into three main parts, each resembled in separate python sketchbook files. These are:
 
 ### 1. Datamining
 
